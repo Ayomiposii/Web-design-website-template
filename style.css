@@ -62,6 +62,16 @@ header a:hover {
 #showcase p {
   font-size: 30px;
 }
+.navbox{
+  margin: 10px;
+  padding: 10px;
+  border-top: 2px solid #e8491d;
+  border-bottom: 2px solid #e8491d;
+  border-radius: 10px;
+}
+.nav-link{
+  color: white;
+}
 .dp-menu {
   padding: 5px;
   margin: 0;
