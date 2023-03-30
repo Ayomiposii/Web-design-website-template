@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background: #35424a;
+  background: #2c4c60;
   margin-top: 5px;
   color: #ffffff;
   min-height: 70px;
@@ -13,6 +13,7 @@ header {
 }
 header h1 {
   font-size: 22px;
+  font-weight: 70px;
 }
 header a {
   color: #ffffff;
@@ -36,12 +37,6 @@ header li {
 header #branding {
   float: left;
   font-size: 12px;
-}
-
-header .highlight,
-header .current {
-  color: #e8491d;
-  font-weight: bold;
 }
 
 header a:hover {
