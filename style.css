@@ -72,6 +72,10 @@ header a:hover {
 .nav-link{
   color: white;
 }
+.icon{
+  background-color: white;
+  border: 5px solid #e8491d;
+}
 .dp-menu {
   padding: 5px;
   margin: 0;
